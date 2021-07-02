@@ -5,9 +5,8 @@
 - 💞️ I’m looking to collaborate on any language that I know...
 - 📫 Do visit my website https://sreedeepta.whjr.site/ 👈🏻 ..
 - 🥋 I love doing Karate...
-                                                   ** Languages I use**
- 
- 
- ![2021-07-01 07_56_21-aditineemkar (Aditi Neemkar)](https://user-images.githubusercontent.com/78677605/124058893-da9a2380-da47-11eb-8799-132e06f6bc90.png)
+                                                    **Languages I use**
+                                                    
+[2021-07-01 08_40_10-aditineemkar (Aditi Neemkar)](https://user-images.githubusercontent.com/78677605/124208934-4773f300-db06-11eb-94a1-22d159dca9b8.png) ![2021-07-01 07_56_21-aditineemkar (Aditi Neemkar)](https://user-images.githubusercontent.com/78677605/124058893-da9a2380-da47-11eb-8799-132e06f6bc90.png)
 
   
