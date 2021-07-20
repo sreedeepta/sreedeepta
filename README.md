@@ -4,5 +4,7 @@
 - 💞️ I’m looking to collaborate on any language that I know...
 - 📫 Do visit my website https://sreedeepta.whjr.site/ 👈🏻 ..
 - 🥋 I love doing Karate...
-- I know french,japanese,korean,sanskrit I learnt korean and french and japanese with Duolingo!
+- 🔈  I know french,japanese,korean,sanskrit I learnt korean and french and japanese with Duolingo!
+- 🐍 I learn Python
+- 📚 I also do HTML,CSS,JS
                                                     
