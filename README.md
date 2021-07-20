@@ -7,4 +7,5 @@
 - 🔈  I know french,japanese,korean,sanskrit I learnt korean and french and japanese with Duolingo!
 - 🐍 I learn Python
 - 📚 I also do HTML,CSS,JS
+- I am also a whjr coder
                                                     
