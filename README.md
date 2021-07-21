@@ -14,5 +14,4 @@
 - 🕉️ Jai Shree Krishna!!🙏
 - ❓  Fun Fact About me : I love reading books!! But most love reading Mahabharath 
                                                     
-![image](https://user-images.githubusercontent.com/78677605/126457323-8fe74ecb-9ba2-4f9c-89c2-22a12b7fd5ab.png)
 
