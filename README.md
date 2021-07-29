@@ -9,7 +9,7 @@
 - 👧 I am a teen of 12+ yrs
 - 📚 I also do HTML,CSS,JS,Django
 - 👩🏻‍💻 I am also a whjr coder
-- 😁 I am rare in Github, I am mostly in Codepen https://codepen.io/coder-mahabharat-lover-and-blink-Sreedeepta  ,I am always in replit https://replit.com/@Sreedeepta
+- 😁 I am rare in Github, I am mostly in Codepen https://codepen.io/Lady_noir  ,I am always in replit https://replit.com/@Sreedeepta
 - 🎧 I am a BP fan(Blackpink Fan) I love their songs❤️
 - 🐞 I am a miraculer!🐾
 - 🕉️ Jai Shree Krishna!!🙏
