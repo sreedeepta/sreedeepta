@@ -11,7 +11,7 @@
 - 👩🏻‍💻 I am also a whjr coder
 - 😁 I am rare in Github, I am mostly in Codepen https://codepen.io/Lady_noir  ,I am always in replit https://replit.com/@Sreedeepta
 - 🎧 I am a BP fan(Blackpink Fan) I love their songs❤️
-- 🐞 I am a miraculer!🐾
+- 🐞 I am a miraculer!🐾 I have kept my name as LadyNoir inspired by CatNoir though none of his personailties matches with me! but I am his fan so I kept it1 He is way more better than me
 - 🕉️ Jai Shree Krishna!!🙏
 - ❓  Fun Fact About me : I love reading books!! But most love reading Mahabharath 
 - 🐞 Bug out🐾
