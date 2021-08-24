@@ -4,6 +4,8 @@
 # INTRODUCTION
 - 👋 Hi, I’m [Swastik Bhattacharjee](https://github.com/Swastik-WhitehatJR).
 - 👀 I’m interested in Programming and designing.
+- 🐍 I Code Python !
+- 🐍 I love to work on**CRAZY PYTHON PROJECTS**
 - 🌱 I’m currently learning Web Development basically the language javascript.
 - 💞️ I’m learning it in [WhitehatJR](https://whjr.co/jOTL3).
 - 📫 You can reach me by mentioning me in github at @Swastik-WhitehatJR.
@@ -12,21 +14,21 @@
 
 
 # ABOUT ME
-*Name:* Swastik Bhattacharjee<br/>
-*Class:* 8<br/>
+*Name:* Sreedeepta Mitra<br/>
+*Class:* 7<br/>
 *Age:* 12+<br/>
-*School:* Don Bosco School<br/>
-*City:* Berhampore<br/>
-*District:* Murshidabad<br/>
+*School:* ST.Agnes School,Kharagpur<br/>
+*City:* Midnapur<br/>
+*District:* Paschim Medinpur<br/>
 *Nationality:* Indian<br/>
 
 ![My GIF](swastik.gif)
 
 
 # ABOUT MY GITHUB PROFILE
-![My GIF](https://github-readme-stats.vercel.app/api?username=Swastik-WhitehatJR&show_icons=true&count_private=true&theme=dark)<br>
-![MYGIF](https://github-readme-stats.vercel.app/api/top-langs/?username=Swastik-WhitehatJR&theme=gruvbox&count_private=true&custom_title=Top%20Languages)<br>
-![MYGIF](https://github-profile-trophy.vercel.app/?username=Swastik-WhitehatJR&theme=gruvbox)<br>
+![My GIF](https://github-readme-stats.vercel.app/api?username=Sreedeepta&show_icons=true&count_private=true&theme=dark)<br>
+![MYGIF](https://github-readme-stats.vercel.app/api/top-langs/?username=Sreedeepta&theme=gruvbox&count_private=true&custom_title=Top%20Languages)<br>
+![MYGIF](https://github-profile-trophy.vercel.app/?username=Sreedeepta&theme=gruvbox)<br>
 
 
 <img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
