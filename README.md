@@ -6,11 +6,12 @@
 - 👀 I’m interested in Programming and designing.
 - 🐍 I Code Python !
 - 🐍 I love to work on**CRAZY PYTHON PROJECTS**
+- 🐍 I code PYTHON in replit not in GITHUB
 - 🌱 I’m currently learning Web Development basically the language javascript.
-- 💞️ I’m learning it in [WhitehatJR](https://whjr.co/jOTL3).
-- 📫 You can reach me by mentioning me in github at @Swastik-WhitehatJR.
-- 💌 You can mail me in swastikbhattacharjee.07@gmail.com.
-- 🤠 In my this Github Channel, I will always give things related to WitehatJR like the classes and projects.
+- 💞️ I’m learning it with my dad
+- 📫 You can reach me by mentioning me in github at @Sreedeepta
+- 🤠 I don't make much in GITHUB of python as you see! Pls Follow me !
+- 
 
 
 # ABOUT ME
