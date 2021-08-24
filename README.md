@@ -3,7 +3,7 @@
 <!--![My Image](swastik.png)-->
 
 # INTRODUCTION
-- 👋 Hi, I’m [Swastik Bhattacharjee](https://github.com/Swastik-WhitehatJR).
+- 👋 Hi, I’m [Sreedeepta Mitra](https://codepen.io/sreedeepta).
 - 👀 I’m interested in Programming and designing.
 - 🐍 I Code Python !
 - 🐍 I love to work on**CRAZY PYTHON PROJECTS**
@@ -24,7 +24,6 @@
 *District:* Paschim Medinpur<br/>
 *Nationality:* Indian<br/>
 
-![My GIF](swastik.gif)
 
 
 # ABOUT MY GITHUB PROFILE
