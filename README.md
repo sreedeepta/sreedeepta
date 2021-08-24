@@ -1,4 +1,5 @@
-![My Sign](Greatvibessignature.png)
+![2021-08-24 21_43_37-Free Logo Maker - Get Custom Logo Designs in Minutes _ Looka](https://user-images.githubusercontent.com/78677605/130652382-041b3b29-721f-448e-9d18-aa86213b825d.png)
+
 <!--![My Image](swastik.png)-->
 
 # INTRODUCTION
