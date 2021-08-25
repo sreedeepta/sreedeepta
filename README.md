@@ -13,15 +13,16 @@
 - 📫 You can reach me by mentioning me in github at @Sreedeepta
 - 🤠 I don't make much in GITHUB of python as you see! Pls Follow me ! both in GITHUB and CODEPEN 
 - 👩💻 I rarely code in GITHUB, I mostly code in CODEPEN.To follow me in codepen click my name where my name is blue!,I always code in replit here is the link to my replit               profile         https://replit.com/@Sreedeepta
-- I am A Mahabharath Lover
-- I am a MATHEMATICS LOVER
-- I WANT TO BE A BACKEND CODER
--![woman-biking_1f6b4-200d-2640-fe0f](https://user-images.githubusercontent.com/78677605/130830862-0cff3379-e9f8-42bc-9f35-bfb7c636cabd.png)I love cycling
-- ![woman-swimming_1f3ca-200d-2640-fe0f](https://user-images.githubusercontent.com/78677605/130830998-080aee9a-347a-4622-9260-c1636b44a325.png)I love swimming
+- 📖I am A Mahabharath Lover
+- 🔢I am a MATHEMATICS LOVER
+- 👩💻I WANT TO BE A BACKEND CODER
+- 🚴‍♀️I love cycling
+- 🏊‍♀️I love swimming
 - ⚽I play football
 - 🏏I play Cricket
 - 🏸I play Badminton
 - 🥋I love doing Karate! I AM A KYOKUSHIN KARATEKA!!! A STATE-LEVEL KARATEKA!
+- 🎧I am a blink! but I mostly love INDIAN SONGS
 
 # ABOUT ME
 *Name:* Sreedeepta Mitra<br/>
