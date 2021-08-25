@@ -16,8 +16,8 @@
 - I am A Mahabharath Lover
 - I am a MATHEMATICS LOVER
 - I WANT TO BE A BACKEND CODER
-- ![Uploading woman-biking_1f6b4-200d-2640-fe0f.png…] I love cycling
-- ![Uploading woman-swimming_1f3ca-200d-2640-fe0f.png…]I love swimming
+-![woman-biking_1f6b4-200d-2640-fe0f](https://user-images.githubusercontent.com/78677605/130830862-0cff3379-e9f8-42bc-9f35-bfb7c636cabd.png)I love cycling
+- ![woman-swimming_1f3ca-200d-2640-fe0f](https://user-images.githubusercontent.com/78677605/130830998-080aee9a-347a-4622-9260-c1636b44a325.png)I love swimming
 - ⚽I play football
 - 🏏I play Cricket
 - 🏸I play Badminton
