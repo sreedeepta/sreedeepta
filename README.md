@@ -3,7 +3,7 @@
 <!--![My Image](swastik.png)-->
 
 # INTRODUCTION
--<img src="https://github.com/mahtamun-hoque-fahim/server/blob/main/icon server/animated icons/hand.gif" width="30px"><br> Hi, I’m [Sreedeepta Mitra](https://codepen.io/sreedeepta).
+-<img src="https://github.com/mahtamun-hoque-fahim/server/blob/main/icon server/animated icons/hand.gif" width="30px"> Hi, I’m [Sreedeepta Mitra](https://codepen.io/sreedeepta).
 - 👀 I’m interested in Programming and designing.
 - 🐍 I Code Python !
 - 🐍 I love to work on **CRAZY PYTHON PROJECTS**
