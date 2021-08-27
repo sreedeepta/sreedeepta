@@ -9,6 +9,7 @@
 - 🐍 I love to work on **CRAZY PYTHON PROJECTS**
 - 🐍 I code PYTHON in replit not in GITHUB
 - 🌱 I’m currently learning Web Development basically the language javascript.
+- <img width="250" align='right' src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 - 💞️ I’m learning it with my dad
 - 📫 You can reach me by mentioning me in github at @Sreedeepta
 - 🤠 I don't make much in GITHUB of python as you see! Pls Follow me ! both in GITHUB and CODEPEN 
