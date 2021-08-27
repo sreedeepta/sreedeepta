@@ -46,8 +46,7 @@
 
 <h3>Follow me & See My projects</h3>
 
-<p align="center">
-&nbsp; <a href="\" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
+<p align="center">  
 &nbsp; <a href="https://codepen.io/sreedeepta" target="_blank" rel="noopener noreferrer"><img src="https://blog.codepen.io/wp-content/uploads/2012/06/Button-Fill-Black-Large.png" width="50" /></a>  
 &nbsp; <a href="https://replit.com/@Sreedeepta" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Repl.it_logo.svg/1200px-Repl.it_logo.svg.png" width="50" /></a>
 
