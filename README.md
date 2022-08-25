@@ -3,7 +3,7 @@
 <!--![My Image](swastik.png)-->
 
 # INTRODUCTION
-<img src="https://github.com/mahtamun-hoque-fahim/server/blob/main/icon server/animated icons/hand.gif" width="30px"> Hi, I’m [Sreedeepta Mitra](https://codepen.io/sreedeepta).
+<img src="https://github.com/mahtamun-hoque-fahim/server/blob/main/icon server/animated icons/hand.gif" width="30px"> Hi, I’m [Sreedeepta Mitra](https://codepen.io/sreedeeptaiam).
 - 👀 I’m interested in Programming and designing.
 - 👩💻 I rarely code in GITHUB, I mostly code in CODEPEN.To follow me in codepen click my name where my name is blue!,I always code in replit here is the link to my replit               profile         https://replit.com/@Sreedeepta
 - <img width="250" align='right' src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
@@ -14,11 +14,9 @@
 
 # ABOUT ME
 *Name:* Sreedeepta Mitra<br/>
-*Class:* 7<br/>
+*Class:* 8<br/>
 *Age:* 12+<br/>
 *School:* ST.Agnes School,Kharagpur<br/>
-*City:* Midnapur<br/>
-*District:* Paschim Medinpur<br/>
 *Nationality:* Indian<br/>
 
 
