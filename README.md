@@ -3,7 +3,7 @@
 <!--![My Image](swastik.png)-->
 
 # INTRODUCTION
-<img src="https://github.com/mahtamun-hoque-fahim/server/blob/main/icon server/animated icons/hand.gif" width="30px"> Hi, I’m [Sreedeepta Mitra](https://codepen.io/sreedeeptaiam).
+<img src="https://github.com/mahtamun-hoque-fahim/server/blob/main/icon server/animated icons/hand.gif" width="30px"> Hi, I’m [Sreedeepta Mitra](https://codepen.io/codergirliam).
 - 👀 I’m interested in Programming and designing.
 - 👩💻 I rarely code in GITHUB, I mostly code in CODEPEN.To follow me in codepen click my name where my name is blue!,I always code in replit here is the link to my replit               profile         https://replit.com/@Sreedeepta
 - <img width="250" align='right' src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
@@ -14,9 +14,6 @@
 
 # ABOUT ME
 *Name:* Sreedeepta Mitra<br/>
-*Class:* 8<br/>
-*Age:* 12+<br/>
-*School:* ST.Agnes School,Kharagpur<br/>
 *Nationality:* Indian<br/>
 
 
@@ -32,7 +29,7 @@
 <h3>Follow me & See My projects</h3>
 
 <p align="center">  
-&nbsp; <a href="https://codepen.io/sreedeepta" target="_blank" rel="noopener noreferrer"><img src="https://blog.codepen.io/wp-content/uploads/2012/06/Button-Fill-Black-Large.png" width="50" /></a>  
+&nbsp; <a href="https://codepen.io/codergirliam" target="_blank" rel="noopener noreferrer"><img src="https://blog.codepen.io/wp-content/uploads/2012/06/Button-Fill-Black-Large.png" width="50" /></a>  
 &nbsp; <a href="https://replit.com/@Sreedeepta" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Repl.it_logo.svg/1200px-Repl.it_logo.svg.png" width="50" /></a>
 
 </p>
