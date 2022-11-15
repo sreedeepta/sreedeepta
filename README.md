@@ -1,11 +1,11 @@
-![2021-08-24 21_43_37-Free Logo Maker - Get Custom Logo Designs in Minutes _ Looka](https://user-images.githubusercontent.com/78677605/130652382-041b3b29-721f-448e-9d18-aa86213b825d.png)
+
 
 <!--![My Image](swastik.png)-->
 
 # INTRODUCTION
-<img src="https://github.com/mahtamun-hoque-fahim/server/blob/main/icon server/animated icons/hand.gif" width="30px"> Hi, I’m [Sreedeepta Mitra](https://codepen.io/codergirliam).
+<img src="https://github.com/mahtamun-hoque-fahim/server/blob/main/icon server/animated icons/hand.gif" width="30px"> Hi, I’m [Aziana Ferdenaz](https://codepen.io/codergirliam).
 - 👀 I’m interested in Programming and designing.
-- 👩💻 I rarely code in GITHUB, I mostly code in CODEPEN.To follow me in codepen click my name where my name is blue!,I always code in replit here is the link to my replit               profile         https://replit.com/@Sreedeepta
+- 👩💻 I rarely code in GITHUB, I mostly code in CODEPEN.
 - <img width="250" align='right' src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 - 📖I am A Mahabharath Lover
 - 👩💻I WANT TO BE A BACKEND CODER
@@ -13,8 +13,8 @@
 - 🎧I am a blink! but I mostly love INDIAN SONGS
 
 # ABOUT ME
-*Name:* Sreedeepta Mitra<br/>
-*Nationality:* Indian<br/>
+*Name:* AZIANA FERDENAZ<br/>
+
 
 
 
