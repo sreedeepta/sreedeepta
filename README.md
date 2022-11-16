@@ -7,10 +7,8 @@
 - 👀 I’m interested in Programming and designing.
 - 👩💻 I rarely code in GITHUB, I mostly code in CODEPEN.
 - <img width="250" align='right' src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
-- 📖I am A Mahabharath Lover
 - 👩💻I WANT TO BE A BACKEND CODER
 - 🚴‍♀️I love cycling
-- 🎧I am a blink! but I mostly love INDIAN SONGS
 
 # ABOUT ME
 *Name:* AZIANA FERDENAZ<br/>
@@ -19,9 +17,9 @@
 
 
 # ABOUT MY GITHUB PROFILE
-![My GIF](https://github-readme-stats.vercel.app/api?username=Sreedeepta&show_icons=true&count_private=true&theme=dark)<br>
-![MYGIF](https://github-readme-stats.vercel.app/api/top-langs/?username=Sreedeepta&theme=gruvbox&count_private=true&custom_title=Top%20Languages)<br>
-![MYGIF](https://github-profile-trophy.vercel.app/?username=Sreedeepta&theme=gruvbox)<br>
+![My GIF](https://github-readme-stats.vercel.app/api?username=aziana-ferdenaz&show_icons=true&count_private=true&theme=dark)<br>
+![MYGIF](https://github-readme-stats.vercel.app/api/top-langs/?username=aziana-ferdenaz&theme=gruvbox&count_private=true&custom_title=Top%20Languages)<br>
+![MYGIF](https://github-profile-trophy.vercel.app/?username=aziana-ferdenaz&theme=gruvbox)<br>
 
 
 
