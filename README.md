@@ -11,7 +11,7 @@
 # ABOUT ME
 *Name:* AZIANA FERDENAZ<br/>
 *Pronoun:* She/her<br/>
-*Age:* 13 y/o
+*Age:* 13 y/o</br>
 *Fun Fact:* I love to read indian mythology
 ### 📈 My Github Stats
 
