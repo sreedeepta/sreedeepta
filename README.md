@@ -15,7 +15,6 @@
 *Pronoun:* She/her<br/>
 *Age:* 13 y/o
 ### 📈 My Github Stats
-![MYGIF](https://github-profile-trophy.vercel.app/?username=aziana-ferdenaz&theme=gruvbox)<br>
 
  <br/>
 
