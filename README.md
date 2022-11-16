@@ -20,6 +20,27 @@
 ![My GIF](https://github-readme-stats.vercel.app/api?username=aziana-ferdenaz&show_icons=true&count_private=true&theme=dark)<br>
 ![MYGIF](https://github-readme-stats.vercel.app/api/top-langs/?username=aziana-ferdenaz&theme=gruvbox&count_private=true&custom_title=Top%20Languages)<br>
 ![MYGIF](https://github-profile-trophy.vercel.app/?username=aziana-ferdenaz&theme=gruvbox)<br>
+### 📈 My Github Stats
+
+ <br/>
+
+   ![Saarthak Slathia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saarthak-Slathia&theme=gotham&show_icons=true)
+   <img src="http://github-readme-streak-stats.herokuapp.com?user=Saarthak-Slathia&theme=gotham&border=61DAFB&fire=DDB80F"/>
+ <br/>
+ 
+ ---
+ 
+
+![Saarthak Slathia's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Saarthak-Slathia&layout=compact&show_icons=true&show_icons=true&theme=gotham&hide=html,css&langs_count=4)
+[![Saarthak Slathia's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=slathia&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats&layuout=compact&theme=gotham)
+
+---
+
+<a href="https://github.com/Saarthak-Slathia/github-readme-activity-graph"><img alt="Saarthak Slathia's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Saarthak-Slathia&bg_color=0D1117&color=ffffff&line=2ECC71&point=FFFFFF&hide_border=true" /></a>
+
+---
+
+
 ### Programming Languages and Tools: 
  <div>
   <img width="50" src="https://camo.githubusercontent.com/91624b4794cb98081ea55063865721be4b4399472c81e66b89b37fd07aad1d92/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f68746d6c2d352e706e67">
