@@ -12,15 +12,9 @@
 
 # ABOUT ME
 *Name:* AZIANA FERDENAZ<br/>
-
-
-
-
-# ABOUT MY GITHUB PROFILE
-![My GIF](https://github-readme-stats.vercel.app/api?username=aziana-ferdenaz&show_icons=true&count_private=true&theme=dark)<br>
-![MYGIF](https://github-readme-stats.vercel.app/api/top-langs/?username=aziana-ferdenaz&theme=gruvbox&count_private=true&custom_title=Top%20Languages)<br>
 ![MYGIF](https://github-profile-trophy.vercel.app/?username=aziana-ferdenaz&theme=gruvbox)<br>
 ### 📈 My Github Stats
+![MYGIF](https://github-profile-trophy.vercel.app/?username=aziana-ferdenaz&theme=gruvbox)<br>
 
  <br/>
 
