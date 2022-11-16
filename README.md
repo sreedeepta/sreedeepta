@@ -8,12 +8,12 @@
 - 👩💻 I rarely code in GITHUB, I mostly code in CODEPEN.
 - <img width="250" align='right' src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 - 👩💻I WANT TO BE A BACKEND CODER
-- 🚴‍♀️I love cycling
 
 # ABOUT ME
 *Name:* AZIANA FERDENAZ<br/>
 *Pronoun:* She/her<br/>
 *Age:* 13 y/o
+*Fun Fact:* I love to read indian mythology
 ### 📈 My Github Stats
 
  <br/>
