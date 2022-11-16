@@ -12,7 +12,8 @@
 
 # ABOUT ME
 *Name:* AZIANA FERDENAZ<br/>
-![MYGIF](https://github-profile-trophy.vercel.app/?username=aziana-ferdenaz&theme=gruvbox)<br>
+*Pronoun:* She/her
+*Age:* 13 y/o
 ### 📈 My Github Stats
 ![MYGIF](https://github-profile-trophy.vercel.app/?username=aziana-ferdenaz&theme=gruvbox)<br>
 
