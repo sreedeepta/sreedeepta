@@ -10,9 +10,7 @@
 
 # ABOUT ME
 *Name:* AZIANA FERDENAZ<br/>
-*Pronoun:* She/her<br/>
-*Age:* 13 y/o</br>
-*Fun Fact:* I love to read indian mythology
+*Pronoun:* She/her<br>
 ### 📈 My Github Stats
 
  <br/>
