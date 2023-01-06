@@ -4,7 +4,9 @@
 
 # INTRODUCTION
 <img src="https://github.com/mahtamun-hoque-fahim/server/blob/main/icon server/animated icons/hand.gif" width="30px"> Hi, I’m [Aziana Ferdenaz](https://codepen.io/aziana-ferdenaz).
-<img src="https://komarev.com/ghpvc/?username=somnisomni&style=for-the-badge&label=PROFILE+PAGE+HITS&color=orange">
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=aziana-ferdenaz&style=for-the-badge&label=PROFILE+PAGE+HITS&color=orange">
 
 
 # ABOUT ME
