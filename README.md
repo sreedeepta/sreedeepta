@@ -3,8 +3,12 @@
 <!--![My Image](swastik.png)-->
 
 # INTRODUCTION
-<img src="https://github.com/mahtamun-hoque-fahim/server/blob/main/icon server/animated icons/hand.gif" width="30px"> Hi, I’m [Aziana Ferdenaz](https://codepen.io/codergirliam).
--
+<img src="https://github.com/mahtamun-hoque-fahim/server/blob/main/icon server/animated icons/hand.gif" width="30px"> Hi, I’m [Aziana Ferdenaz](https://codepen.io/aziana-ferdenaz).
+
+
+# ABOUT ME
+*Name:* AZIANA FERDENAZ<br/>
+*Pronoun:* She/her<br>
 ### 📈 My Github Stats
 
  <br/>
