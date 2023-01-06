@@ -5,6 +5,8 @@
 # INTRODUCTION
 <img src="https://github.com/mahtamun-hoque-fahim/server/blob/main/icon server/animated icons/hand.gif" width="30px"> Hi, I’m [Aziana Ferdenaz](https://codepen.io/codergirliam).
 - 👀 I’m interested in Programming and designing.
+- 👩💻I was a whjr coder
+- 👩💻 Python Programmer
 - 👩💻 I rarely code in GITHUB
 - 👩💻I WANT TO BE A BACKEND CODER
 
