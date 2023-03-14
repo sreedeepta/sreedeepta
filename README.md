@@ -6,7 +6,7 @@
 <img src="https://github.com/mahtamun-hoque-fahim/server/blob/main/icon server/animated icons/hand.gif" width="30px"> Hi, I’m [Sreedeepta Mitra](https://codepen.io/sreedeepta).
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=aziana-ferdenaz&style=for-the-badge&label=PROFILE+PAGE+HITS&color=orange">
+<img src="https://komarev.com/ghpvc/?username=sreedeepta&style=for-the-badge&label=PROFILE+PAGE+HITS&color=orange">
 
 
 # ABOUT ME
@@ -16,19 +16,19 @@
 
  <br/>
 
-   ![Aziana Ferdenaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=sreedeepta&theme=gotham&show_icons=true)
-   <img src="http://github-readme-streak-stats.herokuapp.com?user=aziana-ferdenaz&theme=gotham&border=61DAFB&fire=DDB80F"/>
+   ![Sreedeepta's GitHub stats](https://github-readme-stats.vercel.app/api?username=sreedeepta&theme=gotham&show_icons=true)
+   <img src="http://github-readme-streak-stats.herokuapp.com?user=sreedeepta&theme=gotham&border=61DAFB&fire=DDB80F"/>
  <br/>
  
  ---
  
 
-![Aziana Ferdenaz's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=aziana-ferdenaz&layout=compact&show_icons=true&show_icons=true&theme=gotham&hide=html,css&langs_count=4)
-![MYGIF](https://github-profile-trophy.vercel.app/?username=aziana-ferdenaz&theme=gruvbox)<br>
+![Sreedeepta's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=sreedeepta&layout=compact&show_icons=true&show_icons=true&theme=gotham&hide=html,css&langs_count=4)
+![MYGIF](https://github-profile-trophy.vercel.app/?username=sreedeepta&theme=gruvbox)<br>
 
 ---
 
-<a href="https://github.com/aziana-ferdenaz/github-readme-activity-graph"><img alt="Aziana Ferdenaz's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=aziana-ferdenaz&bg_color=0D1117&color=ffffff&line=2ECC71&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/sreedeepta/github-readme-activity-graph"><img alt="Sreedeepta's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sreedeepta&bg_color=0D1117&color=ffffff&line=2ECC71&point=FFFFFF&hide_border=true" /></a>
 
 ---
 
