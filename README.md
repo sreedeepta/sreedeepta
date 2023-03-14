@@ -10,13 +10,13 @@
 
 
 # ABOUT ME
-*Name:* AZIANA FERDENAZ<br/>
+*Name:* Sreedeepta Mitra<br/>
 *Pronoun:* She/her<br>
 ### 📈 My Github Stats
 
  <br/>
 
-   ![Aziana Ferdenaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=aziana-ferdenaz&theme=gotham&show_icons=true)
+   ![Aziana Ferdenaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=sreedeepta&theme=gotham&show_icons=true)
    <img src="http://github-readme-streak-stats.herokuapp.com?user=aziana-ferdenaz&theme=gotham&border=61DAFB&fire=DDB80F"/>
  <br/>
  
